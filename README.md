@@ -1,4 +1,4 @@
 # Pareto-front
-## Given a set of d-dimensional points, this code returns the set of Pareto front
-### 2d.py works very fast for 2 dimensional points
-### nd.py works for all dimensions 
+#### Given a set of d-dimensional points, this code returns the set of Pareto front
+  - <b style="color:green">2d.py</b> works very fast for 2 dimensional points
+  - <b style="color:green">nd.py</b> works for all dimensions
